@@ -1,7 +1,7 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
- * @see ../libraries/Facebook.php
+ * @see ../libraries/FacebookAPI.php
  */
 
 $config['facebook_appId']               = 'YOUR_APP_ID';
